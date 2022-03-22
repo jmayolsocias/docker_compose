@@ -1,0 +1,17 @@
+version: "3.9"
+services:
+  web_application:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    ports:
+      - "8080:8080"
+    restart: always
+  web_proxy:
+    build:
+      context: .
+      dockerfile: Dockerfile.nginx
+    ports:
+      - 80:80
+      - 443:443
+
