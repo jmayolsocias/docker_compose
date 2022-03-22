@@ -1,4 +1,3 @@
-openssl req -new -newkey rsa:4096 -x509 -sha256 -days 365 -nodes -out www.hello_world.com.crt -keyout www.hello_world.com.key
 
 # Dockerized hello-world app
 
