@@ -1,8 +1,0 @@
-{
-    "whoami": {
-        "Personal": "My name is Jaume, 40 years old and I'm from Spain.",
-        "Background": "I started my IT career as Network Engineer but in 2015 I decided to have a career change and I moved into DevOps.\nSince then, I have been working on public clouds (mainly AWS) and also on-premise datacenters.",
-        "Experience": "I have experience in provisioning infrastructure with terraform and cloudformation, automation with Ansible,\nCI/CD in Jenkins, Spinnaker and CircleCI, ECS, Kubernetes, monitoring with nagios, Kibana and Datadog.",
-        "Soft skills": "I consider myself a team player, contributing to the team in order to complete tasks and being reliable."
-  }
-}
